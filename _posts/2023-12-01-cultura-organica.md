@@ -2,9 +2,7 @@
 layout: post
 title: La cultura de una empresa es orgánica
 subtitle: La cultura de una empresa evoluciona, tiene vida, no es estática
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/avatar.jpeg
 tags: [empresa, cultura]
 author: Nico
 ---
