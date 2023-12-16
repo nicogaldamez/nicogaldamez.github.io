@@ -10,7 +10,9 @@ Estoy fascinado con el rumbo que está tomando la comunidad de Ruby on Rails. La
 
 Soy un firme defensor de la idea de que el mayor desafío que enfrentamos como desarrolladores es simplificar problemas, procesos, flujos, porciones de código, etc., y encontrar que la herramienta que más utilizamos sigue esta misma filosofía es verdaderamente maravilloso.
 
-{: .box-default} This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it'll teach you how to transform regular text into bold/italics/tables/etc.
+El foco de las empresas de software no debe estar puesto en usar la última tecnología, sino en la personas y sus problemas. Esa debe ser nuestra obsesión.
+
+{: .box-success} This is a demo post to show you how to write blog posts with markdown. I strongly encourage you to take 5 minutes to learn how to write in markdown - it'll teach you how to transform regular text into bold/italics/tables/etc.
 I also encourage you to look at the code that created this post to learn some more advanced tips about using markdown in Beautiful Jekyll.El foco de las empresas de software no debe estar puesto en usar la última tecnología, sino en la personas y sus problemas. Esa debe ser nuestra obsesión.
 
 La tecnología es, en última instancia, un medio para resolver problemas. Cuanto más complejo sea el medio, más desafiante se vuelve alcanzar nuestros objetivos.
