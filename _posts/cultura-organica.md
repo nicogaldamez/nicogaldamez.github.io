@@ -4,7 +4,6 @@ title: La cultura de una empresa es orgánica
 subtitle: La cultura de una empresa evoluciona, tiene vida, no es estática
 share-img: /assets/img/avatar.jpeg
 tags: [empresa, cultura]
-author: Nico
 ---
 
 La cultura de una empresa no es lo que está escrito en un documento, no es lo que se puede contar en una charla, ni tampoco lo que se puede ver en un video institucional. La única forma de conocer la verdadera cultura de una empresa es vivirla desde adentro.
