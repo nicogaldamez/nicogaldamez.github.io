@@ -20,11 +20,12 @@ author: Nicolás Galdámez
 ###############################################
 
 navbar-links:
-  About Me: "Sobre Mí"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Sobre Mi: "aboutme"
+  Blog: "https://deanattali.com"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  
 
 ################
 # --- Logo --- #
