@@ -20,7 +20,6 @@ author: Nicolás Galdámez
 ###############################################
 
 navbar-links:
-  Blog: "https://deanattali.com"
   Sobre Mi: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -53,7 +52,7 @@ round-avatar: true
 social-network-links:
   email: "nicogaldamez@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: nicogaldamez
+  # github: nicogaldamez
   twitter: nicogaldamez
   medium: nicogaldamez
 #  reddit: yourname
