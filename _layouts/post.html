@@ -41,16 +41,7 @@ layout: base
 
       <div class="blog-post">
         {{ content }}
-      </div>
-
-      {% if page.tags.size > 0 %}
-        <div class="blog-tags">
-          <span>Tags:</span>
-          {% for tag in page.tags %}
-            <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
-          {% endfor %}
-        </div>
-      {% endif %}
+      </div> 
 
       {% if page.after-content %}
         <div class="after-content">
