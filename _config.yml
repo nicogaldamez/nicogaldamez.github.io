@@ -21,6 +21,7 @@ author: Nicolás Galdámez
 
 navbar-links:
   Sobre Mi: "aboutme"
+  Qué me gusta: "what_i_like"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
