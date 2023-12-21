@@ -13,7 +13,7 @@ Hola, soy  Nico.
 - Cofundador y CTO de [Unagi](https://unagisoftware.com)
 - Programador
 - Petizo solo de apariencia
-- Amante ensalada de frutas (ya se que ya lo dije, ¿y?)
+- Amante de la ensalada de frutas
 
 # Lo que fui
 - Rubio
