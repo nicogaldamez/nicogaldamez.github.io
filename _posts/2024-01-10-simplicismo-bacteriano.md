@@ -6,14 +6,12 @@ share-img: /assets/img/avatar.jpeg
 tags: [desarrollo]
 ---
 
-
-
 Hola, soy Nico, y soy un adicto.
 
 
 Yo no se si fue algo de siempre o me empezó a pasar hace unos años. Supongo que es algo normal, que llega con la experiencia, pero hoy podría decir que se ha convertido en una obsesión. Antes podía soportarlo, pero ahora me carcome, me duele, me lastima. Me cuesta decirlo, por eso nunca lo blanqueé, pero llegó el día. Hoy hago público mi trastorno: sufro de **simplicismo bacteriano**.
 
-### 
+
 > **SIMPLICISMO BACTERIANO**
 > 
 > _Enfermedad degenerativa que provoca que las personas se obsesionen con hacer las cosas más simples._ 
