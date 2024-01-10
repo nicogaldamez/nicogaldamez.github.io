@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Qué me gusta
-subtitle: Un compilado de apps, herramientas y actividades que me gusta usar/hacer
+subtitle: Un compilado de apps, herramientas y actividades que me gusta hacer
 ---
 
 # Hardware
