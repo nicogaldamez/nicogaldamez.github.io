@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sufro de una adicción
-subtitle: Hacer las cosas más simples se ha convertido en mi adicción
+subtitle: Hacer las cosas más simples
 share-img: /assets/img/avatar.jpeg
 tags: [desarrollo]
 ---
