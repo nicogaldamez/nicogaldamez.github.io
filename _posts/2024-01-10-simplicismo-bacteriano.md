@@ -18,7 +18,7 @@ Yo no se si fue algo de siempre o me empezó a pasar hace unos años. Supongo qu
   
 Cada vez que tengo un problema delante, mi primera reacción es _"¿cómo puedo simplificar esto?"_. Y no me refiero solo a buscar la solución más simple, sino que lo primero que intento es simplificar el problema. Me empiezo a preguntar si el problema es realmente ese, si puede dividirse, si hay algo que pueda ignorarse, si hay algo que no estoy viendo. Básicamente, si el problema que tengo en frente es el verdadero problema o simplemente es un problema más chico envuelto en muchas pieles que lo hacen ver más grande.
 
-Lo mismo me pasa con un diseño o una solución. ¿Qué pasa si le saco esto de acá? ¿Y si muevo esto para allá? ¿Si extraigo esto a otra clase? ¿Es necesario esta interacción?
+Lo mismo me pasa con un diseño o una solución. _¿Qué pasa si le saco esto de acá? ¿Y si muevo esto para allá? ¿Si extraigo esto a otra clase? ¿Es necesario esta interacción?_
 Vivo haciendome esas preguntas y hacer las cosas más simples se ha convertido en mi momento favorito del trabajo. 
 
 Por lo general, se asocia el simplificar con recortar. Es el caso más común, es cierto, pero muchas veces el hacer las cosas más simples es todo lo contrario. Hacer las cosas más simples es lograr claridad, mayor fluidez, frescura. Significa convertir algo complejo en algo natural. En el mundo de lo simple no sobran palabras, clases, objetos. Hay ocasiones en el que añadir palabras es lo que termina haciendo las cosas más simples, ya sea para un usuario, para un desarrollador o quien vea/lea el resultado de lo que estamos haciendo.
