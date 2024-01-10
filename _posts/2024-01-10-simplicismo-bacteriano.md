@@ -25,7 +25,7 @@ Por lo general, se asocia el simplificar con recortar. Es el caso más común, e
 
 Hay que tener cuidado, porque el simplicismo bacteriano muchas veces se apropia tanto de la persona que no la deja avanzar. Es tal la obsesión que no se puede parar de simplificar, y es un pozo del que es difícil salir.
 
-De todas maneras, el peor estado que puede sufrir una persona con esta condición es cuando el simplicismo bacteriano se convierte en _simplicismo viral de primer grado_. En este punto, la persona se convierte, cual testigo de Jehová, en un predicador incontrolable del simplicismo. En algunos casos puede ser bueno, pero es difícil de controlar. Se molesta tanto al resto con el simplicismo que termina alejando a las personas de quien sufre de esta condición. Este es un punto de no retorno y muy doloroso.
+De todas maneras, el peor estado que puede sufrir una persona con esta condición es cuando el simplicismo bacteriano se convierte en _simplicismo viral de primer grado_. En este punto, la persona se convierte, cual testigo de Jehová, en un predicador incontrolable del simplicismo. En algunos casos puede ser bueno, pero ¡cuidado! porque es difícil de manejar. Se molesta tanto al resto con el simplicismo que termina alejando a las personas de quien sufre de esta condición. Este es un punto de no retorno y muy doloroso.
 
 Yo hoy me encuentro en el medio, entre el bacteriano y el viral. Hay veces que siento que el viral quiere apropiarse de mí, y ahí es cuando siento la mirada esquiva de mi equipo. Pero debo tener cuidado para que no pase a mayores, no quiero sentirme alejado del resto, sería muy trágico para mí.
 
