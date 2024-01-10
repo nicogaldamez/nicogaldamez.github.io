@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Sufro de una adicción
@@ -6,6 +5,7 @@ subtitle: Hacer las cosas más simples se ha convertido en mi adicción
 share-img: /assets/img/avatar.jpeg
 tags: [desarrollo]
 ---
+
 
 
 Hola, soy Nico, y soy un adicto.
