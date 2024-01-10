@@ -23,4 +23,4 @@ subtitle: Un compilado de apps, herramientas y actividades que me gusta usar/hac
 # Otros
 - Leer ([Goodreads](https://www.goodreads.com/user/show/10355548-nico))
 - Mirar películas/series ([IMDB](https://www.imdb.com/user/ur46820557/ratings?ref_=nv_usr_rt_4))
-- Escribir ([Blog](nicogaldamez.github.io) / [Medium](https://medium.com/@nicogaldamez)
+- Escribir ([Blog](https://nicogaldamez.com.ar) / [Medium](https://medium.com/@nicogaldamez))
