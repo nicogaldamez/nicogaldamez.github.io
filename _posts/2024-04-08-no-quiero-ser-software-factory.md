@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No quiero ser una Software Factory
-subtitle: El día que me enteré qué era una software factory
+subtitle: El día que me enteré qué era una Software Factory
 share-img: /assets/img/avatar.jpeg
 tags: [desarrollo]
 ---
