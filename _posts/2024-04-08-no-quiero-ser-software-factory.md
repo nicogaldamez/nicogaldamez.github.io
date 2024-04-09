@@ -33,13 +33,13 @@ Luego de unos años descubrí cual fue el problema de esas Software Factories. E
 
 Tengo recuerdos de estar en una de estas empresas, y que por el afán de lograr un crecimiento de la producción desmesurado, sumaron de un saque una cantidad de empleados tremenda. Sentí de repente que estaba en una empresa nueva. Demasiadas caras nuevas. Al principio me pareció copado, pero luego fue muy notorio el cambio cultural y esa fue la gota que rebalsó el vaso para que decida irme.
 
-La verdad que trabajar como un operario de fábrica no era lo que me había imaginado cuando soñaba con trabajar en una Software Factory. 
+La verdad que trabajar como un operario de fábrica no era lo que me había imaginado cuando soñaba formar parte de una Software Factory. 
 
 Es por eso que cuando empecé a tener clientes propios, como también cuando con mi hermano decidimos tener nuestra propia Software Factory, pusimos el foco en otro lado: las personas, las ideas, los problemas, la comunicación.
 
 Este cambio de enfoque impactó mucho en mi motivación y también lo noté en el resto. Darle mucho peso a las relaciones entre las personas, tanto con compañeros como con clientes, es clave y nos permite sentirnos mucho más parte de los cambios que se van generando. Cambios no solo en el software, sino en la gente. Ver cómo crece un compañero de trabajo o celebrar los éxitos de un cliente como propios son de mis momentos favoritos del trabajo.
 
-Priorizar la cultura fue muy importante para que todo corra sobre rieles. Y no no me refiero a tener todo escrito en un manifesto cultural, ni tener un metegol en el centro de la oficina, sino demostrarlo día a día con el ejemplo. 
+Priorizar la cultura fue muy importante para que todo corra sobre rieles. Y no me refiero a tener todo escrito en un manifesto cultural, ni tener un metegol en el centro de la oficina, sino demostrarlo día a día con el ejemplo. 
 Obviamente que no es fácil, y depende mucho de encontrar personas que estén alineadas con esa mirada, pero con el tiempo descubrí que hay mucha gente que prefiere ese enfoque que la de una fábrica tradicional. 
 Por suerte me pude rodear de gente con esa cabeza y encontrar esas personas fue por lejos de mis mejores tareas. Mirar para el costado y ver gente en la misma sintonía es maravilloso.
 
