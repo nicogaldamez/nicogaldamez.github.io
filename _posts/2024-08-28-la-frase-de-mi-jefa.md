@@ -6,7 +6,7 @@ share-img: /assets/img/avatar.jpeg
 tags: [desarrollo]
 ---
 
-Todavía no puedo creer que hayan pasado quince años. Volvíamos en el Corolla de mi jefa de una mala reunión con un cliente, cuando me dijo una frase que no olvidaré jamás:
+Todavía no puedo creer que hayan pasado quince años. Volvíamos en el 307 de mi jefa de una mala reunión con un cliente, cuando me dijo una frase que no olvidaré jamás:
 
 > Vos sos medio boludo, ¿no?
 
