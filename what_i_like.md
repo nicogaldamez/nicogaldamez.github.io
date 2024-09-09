@@ -24,7 +24,7 @@ subtitle: Un compilado de apps, herramientas y actividades que me gusta hacer
 - Leer ([Goodreads](https://www.goodreads.com/user/show/10355548-nico))
 - Mirar películas/series ([IMDB](https://www.imdb.com/user/ur46820557/ratings?ref_=nv_usr_rt_4))
 - Escribir ([Blog](https://nicogaldamez.com.ar) / [Medium](https://medium.com/@nicogaldamez))
-- Newsletter([Link](https://world.hey.com/nicolas.galdamez)
+- Newsletter([Link](https://world.hey.com/nicolas.galdamez)))
 - [Él](https://es.wikipedia.org/wiki/Lionel_Messi)
 - [Ella](https://es.wikipedia.org/wiki/Kim_Wexler)
 - [Ellos](https://es.wikipedia.org/wiki/Les_Luthiers)
