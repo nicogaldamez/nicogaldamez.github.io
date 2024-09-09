@@ -17,7 +17,7 @@ subtitle: Un compilado de apps, herramientas y actividades que me gusta hacer
 - [Postgres](https://www.postgresql.org) => Base de datos
 - [Safari](https://www.apple.com/safari/) / [Brave](https://brave.com/es/) => navegador web
 - [Spotify](https://spotify.com) => musiquita
-- [VSCode](https://code.visualstudio.com)(con shortcuts de VIM) => IDE
+- [Neovim](https://neovim.io) => para codear
 - [Warp](https://warp.dev/) => terminal
 
 # Otros
