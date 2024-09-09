@@ -15,7 +15,7 @@ Hoy todo lo que consumimos –lease películas, libros, artículos, series, vide
 
 Hoy no soportamos no saber cuánto queda de algo. ¿No te pasa que te mandan un video de más de 40 segundos y cada 10 tocás la pantalla para saber cuánto queda? No importa si te está gustando o no. Te mata la ansiedad. Necesitás saber si vas por la mitad, si está por terminar, si te queda mucho. Es desesperante.
 
-Así fue como en el laburo caímos en esta trampa. Por creer que todo el mundo está en la misma; que no soporta la meseta, la exagerada paz de la rutina y la falta de cambio, nos convencimos de que ciertas personas necesitaban un cambio de proyecto/dinámicas. Algunas por estar hace mucho tiempo en el mismo proyecto y otras por sentir que no estaban del todo desafiados.
+Así fue como en el laburo caímos en esta trampa. Por creer que todo el mundo está en la misma; que no soporta la meseta, la exagerada paz de la rutina y la falta de cambio, nos convencimos de que ciertas personas necesitaban un cambio de proyecto/dinámicas. Algunas por estar hacía mucho tiempo en el mismo proyecto y otras por sentir que no estaban del todo desafiadas.
 Planeamos varias alternativas para darles ese cambio, pero nada salió como lo pensábamos.
 
 Al juntarnos con estas personas –las que creíamos que estaban "aburridas" o poco motivadas– nos encontramos con respuestas totalmente inesperadas. Al menos tres de ellas nos dijeron "¿por qué querría un cambio? Así estoy bien y me hace bien seguir así". 
@@ -25,4 +25,4 @@ Aprendí mucho de esto. Me hizo ver que hay personas que abrazan la rutina, que 
 
 Esto no quiere decir que la zona de confort está bien o está mal, simplemente quiere decir que no todos somos iguales y que no todos preferimos lo mismo. También quiere decir que cada persona es distinta dependiendo del contexto, las personas que lo rodean, del momento. Lo que hoy es mi nafta para poder andar, mañana puede ser la nafta que me prende fuego. 
 
-Lo importante es saber qué necesitamos en un momento y lugar dado y saber que no siempre tenemos que estar apasionados o motivados con todo.
+Así que la próxima vez que sientas que no estás apasionado o motivado por algo, dale tiempo, no te desesperes por saber cuánto queda. Tomalo como una señal de tu cuerpo que te esté pidiendo calma solo por el hecho de frenar o porque prefiere tener la energía puesta en otro lado.
