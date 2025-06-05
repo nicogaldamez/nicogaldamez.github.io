@@ -10,7 +10,13 @@ Me gusta lo simple. Libros, muebles, apps, arte; todo. No me gusta cuando las co
 
 Quizás sea una limitación de mi personalidad. Cuando tengo muchas opciones me abrumo, no me gusta tener tantas alternativas para elegir. El tener que tomar muchas decisiones me estresa un poco.
 
-Me acuerdo de cuando iba a la carnicería en mi antiguo barrio y tener este diálogo: – ¿Me das una tapa? – ¿De nalga? – Sí
+Me acuerdo de cuando iba a la carnicería en mi antiguo barrio y tener este diálogo: 
+
+```
+– ¿Me das una tapa?
+– ¿De nalga?
+– Sí
+```
 
 No importaba si el carnicero me preguntaba de nalga, de asado o lo que sea, yo siempre decía que sí. No quería decidir, prefería que hubiese una sola opción. Puede parecer ridículo, pero sinceramente no quiero decidir sobre todo.
 
