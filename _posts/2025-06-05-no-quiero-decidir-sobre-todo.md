@@ -7,6 +7,7 @@ tags: [desarrollo, simple]
 ---
 
 Me gusta lo simple. Libros, muebles, apps, arte; todo. No me gusta cuando las cosas se tornan demasiado complejas, cuando pueden tener distintas interpretaciones o son demasiado ambiciosas desde su concepción.
+
 Quizás sea una limitación de mi personalidad. Cuando tengo muchas opciones me abrumo, no me gusta tener tantas alternativas para elegir. El tener que tomar muchas decisiones me estresa un poco.
 
 Me acuerdo de cuando iba a la carnicería en mi antiguo barrio y tener este diálogo: – ¿Me das una tapa? – ¿De nalga? – Sí
